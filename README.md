@@ -1,0 +1,1 @@
+Sample project for trying reactJS and Django combination along with django rest framework
